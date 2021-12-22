@@ -4,7 +4,7 @@
 	See the demo to see it in action in Youtube: [Remedios caseros]()
 
 ## Files
-	\- Framework: Flask
+	- Framework: Flask
 	\- Templating language: jinja
 	\- Folders:
 		* static: css, images, javascript files
