@@ -6,7 +6,7 @@ it could be drinks or food. Every day shows a random recipe from the
 community and allows to search for recipes but not to add one to the list.
 If you register you can create a recipe as well as navigate from the recipes
 or ingredients lists.
-See the demo to see it in action in Youtube: [Remedios caseros]()
+See the demo to see it in action in Youtube: [Remedios caseros](https://www.youtube.com/watch?v=6IHhTEGBYwk)
 
 ## Structure
 - Framework: Flask
@@ -22,7 +22,7 @@ See the demo to see it in action in Youtube: [Remedios caseros]()
 		
 
 It was designed using the micro web framework Flask. Therefore it is 
-structured  whit the following schema: templates files are stored in the 
+structured  with the following schema: templates files are stored in the 
 templates directory (html files) and the static files
 (images, css, javascript) are stored in the static folder. In addition to 
 those two folders there is the server-side application (application.py), 
